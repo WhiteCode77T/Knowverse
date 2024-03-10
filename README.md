@@ -9,7 +9,7 @@ Knowverse offers a personalized learning experience, catering to your unique goa
    
 ## How to configure
 The source file is in "main" branch
-###Note
+### Note
 The website is not fully responsive.The signup page [after clicking Join For Free button] couldn't initialize in javascript.
 ## Preview Video
 
