@@ -8,3 +8,9 @@ Knowverse offers a personalized learning experience, catering to your unique goa
    
 ## How to configure
 The source file is in "main" branch
+
+## Preview Video
+
+https://github.com/WhiteCode77T/Knowverse/assets/143606368/5f1e454b-c9d1-4e03-8584-25c51361d490
+
+
